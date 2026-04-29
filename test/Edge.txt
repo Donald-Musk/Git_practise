@@ -1,1 +1,1 @@
-{'cpu': 'sdfsfsdfsfsdf'}
+"cpu":"sfsdf"
